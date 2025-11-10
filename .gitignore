@@ -1,0 +1,16 @@
+# Carpetas temporales de Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+
+# Archivos temporales o personales
+*.user
+*.log
+*.tmp
+
+# Plugins compilados
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
